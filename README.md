@@ -1,4 +1,4 @@
 # collage-demo
 Apna Collage
 <br>
-author: Mohd Pintu
+author: Mohd Pintu(UI Developer)
